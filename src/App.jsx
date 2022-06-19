@@ -5,6 +5,10 @@ import Professionals from './Components/Professionals';
 import Offer from './Components/Offer';
 import Footer from './Components/Footer';
 
+//dlaczego nie działało autouzupełnianie? ^
+//zrobienie porządku w plikach css
+
+
 function App() {
   return (
     <div className='container'>
