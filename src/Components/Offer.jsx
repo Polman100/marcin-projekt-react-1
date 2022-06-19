@@ -12,9 +12,7 @@ const Offer = () => {
                 <ServiceBox 
                 key={service.id}
                 data={service}
-                />
-                
-                
+                />   
             )))}
           </div>
       </div>

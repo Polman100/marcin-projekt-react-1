@@ -6,7 +6,7 @@ import Offer from './Components/Offer';
 import Footer from './Components/Footer';
 
 //dlaczego nie działało autouzupełnianie? ^
-//zrobienie porządku w plikach css
+//uporządkowanie w plików css
 
 
 function App() {
